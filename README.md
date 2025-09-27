@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Front+End+Developer;Crafting+code+from+ideas%2C+script+by+script.+;The+power+of+imagination+makes+us+infinite." alt="Typing SVG" /></a>
+<img align="right" alt="Coding GIF" width="350" height="250" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 </p>
 
-<img align="right" alt="Coding GIF" width="350" height="250" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
 
 ## 👤 About Me
