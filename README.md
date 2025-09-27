@@ -23,7 +23,7 @@
 ☁️ Backend as a Service
 <div align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="48" height="48" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
 </div>
 
 ## 📊 GitHub Statistics
