@@ -8,8 +8,6 @@
 <br/>
 <img align="right" alt="Coding GIF" width="350" height="200" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
-
-
 ## 👤 About Me
 - 🎓 Languages & Translation Graduate – German Major (2025)  
 - 💻 Frontend Developer (React,TypeScript, JavaScript ,Tailwind CSS ,Bootstrap)  
