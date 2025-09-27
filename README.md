@@ -13,7 +13,7 @@
 
 ### 💻 Languages & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,bootstrap" />
 </div>
 
 ### 🛠️ Tools & Platforms
