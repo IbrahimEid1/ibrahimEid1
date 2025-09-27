@@ -1,12 +1,11 @@
 # Welcome to My GitHub 👋
 
 ## 👤 About Me
-- 🎓 Computer Science Graduate from [University Name]
-- 💻 Full Stack Developer with passion for innovation
-- 🌍 Based in [Your City, Country]
-- 🚀 Specializing in Backend & Frontend Development
-- ⭐ Creating seamless digital experiences
-- 📚 Always learning and exploring new technologies
+- 🎓 Languages & Translation Graduate – German Major (2025)  
+- 💻 Frontend Developer (React,TypeScript, JavaScript ,Tailwind CSS ,Bootstrap)  
+- ⚡ Interested in building modern web apps with great UI/UX  
+- 🌱 Always learning and exploring new technologies  
+- 🤝 Open to collaboration and new opportunities  
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +18,12 @@
 ### 🛠️ Tools & Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+</div>
+
+☁️ Backend as a Service
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="48" height="48" alt="Strapi" />
 </div>
 
 ## 📊 GitHub Statistics
