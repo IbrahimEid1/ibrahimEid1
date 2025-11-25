@@ -18,7 +18,7 @@
 
 ### 💻 Languages & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,bootstrap,react,nextjs,prisma,postgres" />
 </div>
 
 ### 🛠️ Tools & Platforms
